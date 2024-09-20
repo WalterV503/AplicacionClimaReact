@@ -30,7 +30,7 @@ export const WheatherApp = () => {
   return (
     
     <div className="container">
-      <h1>Hola</h1>
+    
       <h1>Aplicación de Clima</h1>
 
       <form onSubmit={handleSubmit}>
